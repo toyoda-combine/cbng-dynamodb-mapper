@@ -16,7 +16,7 @@
   },
   "keywords": [],
   "author": "toyoda@combine",
-  "license": "ISC",
+  "license": "MIT",
   "files": [
     "dist"
   ],
